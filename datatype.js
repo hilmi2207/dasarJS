@@ -1,22 +1,21 @@
-let number = 10
+let number = 1
 let word ="Hai"
-let desimal = 9.8
+let desimal = 9.1
 let array = [1,2,3]
 
 let userSawi= {
-    firstName : "Sawitri",
-    midleName : "Fina",
-    lastName :" Kartika"
+    firstName : "Hilmi",
+    lastName :" Hermawan"
 }
 
 let pengguna = [
     {
         id :1,
-        nama : "Sawi"
+        nama : "Hilmi"
     },
     {
         id : 2,
-        nama : "Hoya"
+        nama : "Hermawan"
     }
 ]
 
